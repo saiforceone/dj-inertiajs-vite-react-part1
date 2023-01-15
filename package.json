@@ -1,0 +1,22 @@
+{
+  "name": "contact-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "react-app/src/main.jsx",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@inertiajs/inertia-react": "^0.8.1",
+    "@inertiajs/progress": "^0.2.7",
+    "@vitejs/plugin-react": "^3.0.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "vite": "^4.0.4"
+  }
+}
